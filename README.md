@@ -16,12 +16,12 @@ I'm a software developer and data engineer shaping the digital world through inn
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/guilherme-castel-branco-73a17719b#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/guilherme-castel-branco-73a17719b#gh-dark-mode-only)
+[![linkedin](./linkedin-light.svg)](https://www.linkedin.com/in/guilherme-castel-branco-73a17719b#gh-light-mode-only)
+[![linkedin](./linkedin-dark.svg)](https://www.linkedin.com/in/guilherme-castel-branco-73a17719b#gh-dark-mode-only)
 
 
    <p align="left">
